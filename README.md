@@ -44,7 +44,7 @@ LetsDefend-SOC-Investigations/
 
 | Alert | Investigation Topic | Classification |
 |---|---|---|
-| [SOC341](Alerts/SOC341-Local-Privilege-Escalation-CVE-2025-32463/Investigation.md) | Local Privilege Escalation via chroot - CVE-2025-32463 | True Positive |
+| [SOC341](https://github.com/digitalpardoxxoo/LetsDefend-SOC-Investigations/blob/main/LetsDefend-SOC-Investigations/Alerts/SOC341%20-%20Local%20Privilege%20Escalation%20via%20chroot%20(CVE-2025-32463)/investigation.md) | Local Privilege Escalation via chroot - CVE-2025-32463 | True Positive |
 | [SOC342](https://github.com/digitalpardoxxoo/LetsDefend-SOC-Investigations/blob/main/LetsDefend-SOC-Investigations/Alerts/SOC342%20-%20CVE%E2%80%912025%E2%80%9153770%20SharePoint%20ToolShell%20Auth%20Bypass%20and%20RCE/Investigation.md) | SharePoint ToolShell Authentication Bypass and RCE - CVE-2025-53770 | True Positive |
 | [SOC343](https://github.com/digitalpardoxxoo/LetsDefend-SOC-Investigations/blob/main/LetsDefend-SOC-Investigations/Alerts/SOC343-WinRAR-CVE-2025-8088/Investigation.md) | WinRAR Path Traversal Vulnerability - CVE-2025-8088 | True Positive |
 
